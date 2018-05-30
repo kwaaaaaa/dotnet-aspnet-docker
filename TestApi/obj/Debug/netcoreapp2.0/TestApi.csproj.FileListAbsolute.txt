@@ -1,0 +1,10 @@
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\bin\Debug\netcoreapp2.0\TestApi.deps.json
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\bin\Debug\netcoreapp2.0\TestApi.runtimeconfig.json
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\bin\Debug\netcoreapp2.0\TestApi.runtimeconfig.dev.json
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\bin\Debug\netcoreapp2.0\TestApi.dll
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\bin\Debug\netcoreapp2.0\TestApi.pdb
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\obj\Debug\netcoreapp2.0\TestApi.csproj.CoreCompileInputs.cache
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\obj\Debug\netcoreapp2.0\TestApi.AssemblyInfoInputs.cache
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\obj\Debug\netcoreapp2.0\TestApi.AssemblyInfo.cs
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\obj\Debug\netcoreapp2.0\TestApi.dll
+C:\Users\kwa\Desktop\git\dotnet-aspnet-docker\TestApi\obj\Debug\netcoreapp2.0\TestApi.pdb
